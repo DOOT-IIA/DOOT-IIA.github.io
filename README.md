@@ -10,7 +10,7 @@
 - Team Members: Arumugam Pichai, Prasanna Deshmukh, Parvathy Mohan, and Raveena Khan
 
 ### Links
-- Twitter: https://twitter.com/doot_iia
-- Previous PDF editions: https://www.iiap.res.in/?q=e_magazine
+- <a href="https://twitter.com/doot_iia"> DOOT IIA Twitter </a>
+- <a href="https://www.iiap.res.in/?q=e_magazine"> Previous PDF magazines </a>
 
 # COMING SOON
