@@ -9,4 +9,8 @@
 - Team Leads: Anand MN, Fazlu Rahman, Neeraj Rawat, Sipra Hota, and Soumyaranjan Khuntia
 - Team Members: Arumugam Pichai, Prasanna Deshmukh, Parvathy Mohan, and Raveena Khan
 
+### Links
+- Twitter: https://twitter.com/doot_iia
+- Previous PDF editions: https://www.iiap.res.in/?q=e_magazine
+
 # COMING SOON
