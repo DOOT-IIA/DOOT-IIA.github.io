@@ -7,7 +7,7 @@
 - Vishnu Madhu (Chief Editor)
 - Rishabh Singh Teja (Co- Chief Editor)
 - Team Leads: Anand MN, Fazlu Rahman, Neeraj Rawat, Sipra Hota, and Soumyaranjan Khuntia
-- Team Members: Arumugam Pichai, Prasanna Deshmukh, Parvathy Mohan, and Raveena Khan
+- Team Members: Arumugam Pichai, Prasanna Deshmukh, Parvathy Mohan, Raveena Khan, Saili Kesari, and Shivani Gupta
 
 ### Links
 - <a href="https://twitter.com/doot_iia"> DOOT IIA Twitter </a>
