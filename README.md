@@ -4,10 +4,10 @@
 - We would be soon migrating our pdf magazines to online only mode.
 - Keep checking this page for the upcoming changes.
 ### <it> Current Team Members </it>
-- Vishnu Madhu (Chief Editor)
-- Rishabh Singh Teja (Co- Chief Editor)
-- Team Leads: Anand MN, Fazlu Rahman, Neeraj Rawat, Sipra Hota, and Soumyaranjan Khuntia
-- Team Members: Arumugam Pichai, Prasanna Deshmukh, Parvathy Mohan, Raveena Khan, Saili Kumari Keshri, and Shivani Gupta
+- Rishabh Singh Teja (Chief Editor)
+- Neeraj Rawat (Co- Chief Editor)
+- Team Leads: Anand MN, Fazlu Rahman,Parvathy M, Sipra Hota, Soumyaranjan Khuntia and Vishnu Madhu
+- Team Members: Arumugam Pichai, Parvathy Mohan, Raveena Khan, Saili Kumari Keshri, and Shivani Gupta
 
 ### Links
 - <a href="https://twitter.com/doot_iia"> DOOT IIA Twitter </a>
